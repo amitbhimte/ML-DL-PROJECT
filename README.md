@@ -1,7 +1,3 @@
-You're right, Amit — for GitHub, the README should be **concise yet informative**, ideally giving a quick overview without overwhelming the reader. Here's a more **balanced version** — clean, structured, and short enough to scan quickly:
-
----
-
 ##  Diabetes Prediction using Machine Learning
 
 A machine learning project using **Support Vector Machine (SVM)** to predict whether a person is diabetic based on medical parameters.
